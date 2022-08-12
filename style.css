@@ -1,0 +1,38 @@
+body{
+    background-color:burlywood;
+}
+
+.bton{
+   padding: 5px;
+    box-shadow: 20px;
+}
+
+.h{
+    color:rgb(12, 12, 12);
+    text-shadow:2px 2px beige;
+  
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 60px;
+}
+.input{
+   
+  
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid hsl(210, 76%, 52%);
+    border-radius: 0.25rem;
+}
+.final{
+  margin-left: 41%;
+  margin-top: 30px;
+align-items: center;
+padding: auto;
+text-shadow:3px 3px black ;
+
+
+}
+.line{
+background-color:black;
+box-shadow:2px 2px #495057;
+}
